@@ -38,3 +38,7 @@ Como estas?
 ---
 
 <p style="text-align: center; color: red;">Este texto estara centrado y en rojo.</p>
+---
+|Encabezado 1| Encabezado 2| Encabezado 3|
+|------------| ------------| ------------|
+|Dato 1      | Dato 2      | Dato 3      |
