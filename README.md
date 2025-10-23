@@ -35,3 +35,6 @@ Como estas?
     <h1>Hola Mundo</h1>
   </body>
 </html>
+---
+
+<p style="text-align: center; color: red;">Este texto estara centrado y en rojo.</p>
