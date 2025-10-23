@@ -1,5 +1,5 @@
 # Hi there everyone 🙌
-### I'm a student of ***Backend-Development***
+### I'm a student of ***Backend-Development***.[^1]
 Hola  
 Como estas?
 ---
@@ -56,3 +56,13 @@ Como estas?
 - [ ] Iniciar el curso de SQL
 - [ ] Iniciar el curso de Python Backend
 - [ ] Prepararme para el evento del 13, 14, 15 de noviembre
+
+---
+
+@Ramirofordev
+#1
+
+[^1]: Este es un readme de practica
+
+---
+
