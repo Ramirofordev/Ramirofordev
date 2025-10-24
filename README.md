@@ -2,5 +2,5 @@
 
 ### Soy estudiante de programacion en Python y Backend.
 
-![https://github.com/Ramirofordev](.
-
+#### Plataformas donde pueden encontrarme:
+- 
