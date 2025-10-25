@@ -4,5 +4,5 @@
 
 #### Plataformas donde pueden encontrarme:
 
-| Linkedlin | <img src = "https://img.icons8.com/color/512/linkedin.png">|
-| ---------------------------------------------------------------------- |
+| Linkedlin | ![]|
+| --------- | -- |
