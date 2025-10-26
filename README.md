@@ -3,7 +3,5 @@
 ### Soy estudiante de programacion en Python y Backend.
 
 #### Plataformas donde pueden encontrarme:
-
-| Linkedlin | ![linkedin.com/in/ramirofordev01](https://www.linkedin.com/in/ramirofordev01/)|
-| --------- | -- |
+[![Linkedlin](https://img.shields.io/badge/YOUR_LINKEDIN_URL)
 
