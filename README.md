@@ -1,94 +1,100 @@
-# 👋 Hi, I'm Jose
+# ⚔️ Jose | Junior Software Engineer
 
-💻 Junior Software Engineer | Backend-Focused Developer
+> "Building systems like quests - structured, scalable, and designed to evolve."
+
 📍 Cercedilla, Madrid - Spain
+
+💻 Backend-Focused Junior Software Engineer
 
 ---
 
-## 🚀 About Me
+## 🧭 About Me
 
-I am a Junior Software Engineer focused on building structured, maintainable, and scalable applications.
+I approach software engineering like game design:
+clear systems, defined rules, scalability, and continous improvement.
 
-I work primarly with Python and apply software engineering principles such as clean architecture, SOLID design, testing, and Agile methodologies.
+I specialize in building structured application using Python, applying clean architecture, SOLID principles, automated tests, and Agile methodology.
 
-I enjoy designing systems from scratch, organizing projects into clean layers, and continuously improving code quality through refactoring and automated testing.
+My goal is to design maintanable systems that can evolve without breaking.
 
 ---
 
 ## ⚒️ Tech Stack
 
-**Languages**
+### 🐍 Core
 
-- Python
-- JavaScript
-- SQL
-- HTML
-- CSS
+![Python](https://img.shields.io/badge/Python-Expert-blue)
 
-**Backend**
+![SQL](https://img.shields.io/badge/SQL-Intermediate-lightgrey)
 
-- Flask
-- REST API design
+![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow)
 
-**Database**
+### 🌐 Backend & Web
 
-- SQLite
-- PostgreSQL
+![Flask](https://img.shields.io/badge/Flask-Backend-black)
 
-**Testing**
+![HTML](https://img.shields.io/badge/HTML-Structure-orange)
 
-- Pytest
-- Unit testing
-- Test-driven thinking
+![CSS](https://img.shields.io/badge/CSS-Styling-blue)
 
-**Tools**
+### Engineering Practices
+![Testing](https://img.shields.io/badge/Testing-Pytest-green)
 
-- Git
-- GitHub
+![Agile](https://img.shields.io/badge/Agile-Scrum-red)
 
-**Methodologies**
-
-- Agile
-- Scrum
-- Sprint planning & reviews
+![Git](https://img.shields.io/badge/Git-VersionControl-orange)
 
 ---
 
-## 🧠 Engineering Approach
+## 🧠 Engineer Philosophy
 
-- Clean and modular code
-- SOLID principles
-- Layered architecture
-- Separation of concerns
-- Version control best practices
-- Continuous improvement through iteration
+- ⚙️ Modular & layered architecture
+  
+- 🧱 Separation of concerns
+  
+- 🧪 Automated testing mindset
+  
+- 🔁 Iterative development (Agile Sprints)
+  
+- 🧩 Refactoring-driven improvement
 
 ---
 
-## 📌 Featured Projects
+## 📜 Featured Projects
 
-### 🔷 Agile Task Manager (In progress)
-A task management system built following Agile methodology.
+### 🔷 Agile Task Manager (In Progress)
 
-Includes sprint planning structure, task states, and status tracking.
+Sprint-based task management system inspired by real Agile workflows.
+
+Includes task states, sprint structure, and structured backend logic.
 
 ### 🔷 CRM System
-Dektop-based CRM application built with Python.
 
-Structured with repositories, services, and domain models following clean architecture principles.
+Dekstop-based CRM built in Python.
 
----
-
-## 🌱 Currently Improving
-
-- Advanced backend architecture
-- Scalable API design
-- System design fundamentals
-- Performance optimization
+Implements repository pattern, service layer, and domain modeling.
 
 ---
 
-📬 ## Contact Information
-- Linkedlin: [https://www.linkedin.com/in/ramirofordev01/]
+## 📊 Github Stats
+
+![Jose's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ramirofordev&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ramirofordev&layout=compact&theme=dark)
+
+---
+
+## 🗡 Current Focus
+
+- Advanced backend architecture  
+- API scalability  
+- System design fundamentals  
+- Writing cleaner and more testable code  
+
+---
+
+## 🤝 Connect With Me
+
+- LinkedIn: [https://www.linkedin.com/in/ramirofordev01/]
 - Email: [joseignacioramirocastro22@gmail.com]
 - Instagram: [https://www.instagram.com/elkrayolas/]
