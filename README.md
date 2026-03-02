@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ramirofordev/Ramirofordev/main/banner.png" width="100%" />
+</p>
+
 # ⚔️ Jose | Junior Software Engineer
 
 > "Building systems like quests - structured, scalable, and designed to evolve."
