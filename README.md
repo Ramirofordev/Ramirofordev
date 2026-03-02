@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ramirofordev/Ramirofordev/main/banner.png" width="100%" />
+  <img src="https://raw.githubusercontent.com/Ramirofordev/Ramirofordev/main/banner.png" width="900" height = "500"/>
 </p>
 
 # ⚔️ Jose | Junior Software Engineer
