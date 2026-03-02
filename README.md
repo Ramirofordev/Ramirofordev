@@ -78,9 +78,7 @@ Implements repository pattern, service layer, and domain modeling.
 
 ## 📊 Github Stats
 
-![Jose's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ramirofordev&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ramirofordev&layout=compact&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=Ramirofordev&theme=tokyonight&hide_border=true)
 
 ---
 
